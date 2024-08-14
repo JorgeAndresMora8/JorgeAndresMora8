@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jorge Mora
 
-### Frontend Developer | NextJS | ReactJS
+### Full Stack Developer
 
 🚀 Passionate about creating visually appealing and functional interfaces, with a strong focus on enhancing user experience. My expertise lies in leveraging modern technologies like ReactJS, NextJS, and TypeScript to build scalable and robust applications.
 
