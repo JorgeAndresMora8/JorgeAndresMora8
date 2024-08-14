@@ -14,7 +14,8 @@
 - Styled Components
 
 **Backend:**
-- NodeJS, Python
+- NodeJS
+- Python
 - Django Rest Framework
 
 **Databases:**
