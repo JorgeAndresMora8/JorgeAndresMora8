@@ -2,7 +2,7 @@
 
 ### Full Stack Developer
 
-🚀 Passionate about creating visually appealing and functional interfaces, with a strong focus on enhancing user experience. My expertise lies in leveraging modern technologies like ReactJS, NextJS, and TypeScript to build scalable and robust applications.
+🚀 Full Stack Developer experienced in React.js, Next.js, Node.js and Django Rest Framework, focused on building scalable, intuitive, and high-performance web applications. Specialized in UI/UX, robust architecture, and user experience optimization. Committed to efficient development, applying best practices and modern technologies to ensure maintainability and scalability. Always seeking to innovate and add value to every project.
 
 ---
 
