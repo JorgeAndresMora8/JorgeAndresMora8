@@ -32,7 +32,7 @@
 ## 💼 Professional Experience
 
 ### 🧑‍💻 Full Stack Developer at Promix Groups Panama
-*Nov 2022 - Jan 2024*
+
 
 - Enhanced the "Comprasaldo" application and developed a new virtual wallet service named "Pagocash" for the markets in Panama and Venezuela.
 - Designed and implemented visually appealing and functional interfaces.
@@ -40,7 +40,7 @@
 - Ensured compliance with the Superintendencia de Bancos de Panamá.
 
 ### 🧑‍💻 Front-End Developer at Parkiss, NC, USA
-*Aug 2023 - Nov 2023*
+
 
 - Developed a web application for managing vehicles in parking lots using technologies like React, Express, Firebase, and Google Maps API.
 - Gained experience in project management, development, implementation, and control activities.
